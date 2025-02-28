@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @RishitaChakravo
-- 👀 I’m interested in learning new stuff and participating in hackathons ...
-- 🌱 I’m currently learning c/c++ and html/css/javascript ...
-- 💞️ I’m looking to collaborate on web applications...
-- 📫 How to reach me email chakravorty.r20@outlook.com ...
-- 😄 Pronouns: She...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Rishita Chkaravorty
+I am aspiring engineering and a wanabe AI Engineer currently in Delhi, India for my studies. Currently pursuing my B.Tech in Information Technology at Maharaja Surajmal Institute of Technology.
 
-<!---
-RishitaChakravo/RishitaChakravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I'm Up To
+Learning many new languages.
+Going in many hackathons
+Wanna win hackathons
+
+💻 Tech Stack
+{
+    'Languages': ['C/C++', 'JavaScript'],
+    'Web Dev': ['React.js']
+}
