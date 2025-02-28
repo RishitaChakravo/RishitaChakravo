@@ -1,4 +1,4 @@
-=👋 Hi, I'm Rishita Chkaravorty
+<h1>👋 Hi, I'm Rishita Chkaravorty</h1>
 
 =I am aspiring engineering and a wanabe AI Engineer currently in Delhi, India for my studies. Currently pursuing my B.Tech in Information Technology at Maharaja Surajmal Institute of Technology.
 
