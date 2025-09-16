@@ -4,6 +4,7 @@ I am aspiring engineering and a wanabe AI Engineer currently in Delhi, India for
 
 <h2>🚀 What I'm Up To</h2>
 <ul>
+    <li>-AIML enthusiast</li>
     <li>-Learning many new languages.</li>
     <li>-Going in many hackathons</li>
     <li>-Wanna win hackathons</li>
@@ -11,6 +12,7 @@ I am aspiring engineering and a wanabe AI Engineer currently in Delhi, India for
 
 -💻 Tech Stack
     {
-        'Languages': ['C/C++', 'JavaScript'],
-        'Web Dev': ['React.js']
+        'Languages': ['C/C++', 'JavaScript, Python'],
+        'Web Dev': ['React.js, Next.js'],
+        'AIML' : ['pandas', 'numpy', 'matplotlib', 'seaborn', 'PyTorch]
     }
