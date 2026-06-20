@@ -33,3 +33,5 @@ Object Detection: YOLOv5, YOLOv8, RetinaFace
 🧩 AI & LLMs
 Transformers, Large Language Models (LLMs)
 LangChain, AI API Integration
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/RishitaChakravorty)
